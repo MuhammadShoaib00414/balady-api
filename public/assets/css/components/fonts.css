@@ -1,0 +1,20 @@
+/***** Balady fonts *****/
+@font-face {
+  font-family: "balady-roman55";
+  src: url(../../assets/fonts/fruitiger/FrutigerLTArabic55Roman.ttf);
+}
+@font-face {
+  font-family: "balady-light45";
+  src: url(../../assets/fonts/fruitiger/FrutigerLTArabic45Light.ttf);
+}
+@font-face {
+  font-family: "balady-bold65";
+  src: url(../../assets/fonts/fruitiger/FrutigerLTArabic65Bold.ttf);
+}
+@font-face {
+  font-family: "balady-black75";
+  src: url(../../assets/fonts/fruitiger/frutigerltarabic75black.ttf);
+}
+/***** End Balady fonts *****/
+
+/*# sourceMappingURL=fonts.css.map */
